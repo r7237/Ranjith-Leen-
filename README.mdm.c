@@ -21,7 +21,7 @@ int main(void) {
 			printf("%c",a[i]);
 		}
 		
-	}
+	 }
 	
 	return 0;
 }
