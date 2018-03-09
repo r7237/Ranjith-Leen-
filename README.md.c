@@ -28,8 +28,7 @@ public class op{
            case '%':
            y=a%b;
            System.out.print(y);
-           break;
-           
+           break;     
    }
 }
 }
