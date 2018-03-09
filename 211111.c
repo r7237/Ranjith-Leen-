@@ -7,4 +7,4 @@ int main(void)
 	scanf("%c",&ch);
 	printf("\n%d",ch);
 	return 0;
-}
+ }
