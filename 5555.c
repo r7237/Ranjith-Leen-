@@ -8,3 +8,4 @@ int main(void)
 	a=l*b;
 	printf("\n%0.5f",a);
 	return 0;
+}
